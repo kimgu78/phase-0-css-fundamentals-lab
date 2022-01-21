@@ -1,5 +1,10 @@
-body {
-  width: 100%;
-  height: 100%;
-  margin: 0;
-}
+  header {text-align: center; }
+    nav 
+      a {padding-left: 10pt; padding-right: 10pt; background-color: grey;}
+      figcaption {font-size: 10pt;}
+  body {text-align: center;
+    width: 100%;
+    height: 100%;
+    margin: 0;}
+  #featured-property {align-items: center; max-width: 900px; margin: auto; text-align: center;}
+  div {background-color: red; float: left; text-align: center; width: 25%; margin: auto;}
